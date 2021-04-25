@@ -14,6 +14,7 @@
   - [5. 信息流动图](#5-信息流动图)
   - [6. 协作工具与绝对坐标](#6-协作工具与绝对坐标)
   - [7. 作品展示](#7-作品展示)
+  - [9. FAQ](#9-faq)
   - [ChangeLog](#changelog)
 
 ## 1. 如何贡献？
@@ -94,6 +95,13 @@
 ## 7. 作品展示
 
 最终呈现在 [Master Branch](https://github.com/Spehhhhh/IADB_Scholar/tree/master)，方式待未定，可能以 Web 作品呈现。
+
+## 9. FAQ
+
+- Airtable 访问慢怎么办？
+    - 把 https://airtable.com/ 加入你的登山工具的代理里。
+- 我不会爬虫会不会不适合这个项目？
+    - 不会，你只需要有信息分析的热情就行。
 
 ## ChangeLog
 
