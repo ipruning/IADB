@@ -82,6 +82,10 @@
     - 项目文档积累：[GitHub 主页](https://github.com/Spehhhhh/IADB_Scholar)
     - 项目文档积累：[GitHub 维基](https://github.com/Spehhhhh/IADB_Scholar/wiki)
     - 项目异步讨论：[GitHub Issue](https://github.com/Spehhhhh/IADB_Scholar/issues)
+- GitHub 文件结构
+    - [/README.md](README.md) 一切的入口
+    - [/meeting](meeting) 存放会议纪要的文件夹
+    - [/meeting/210405.md](meeting/210425.md) 第一次会议纪要
 
 ## 7. 作品展示
 
