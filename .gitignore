@@ -1,0 +1,12 @@
+# gitignore
+
+## Common
+
+.resource
+.vscode
+.obsidian
+.idea
+.DS_Store
+.markdownlint.json
+.Ulysses-Group.plist
+.Ulysses-Settings.plist
