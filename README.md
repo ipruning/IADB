@@ -81,7 +81,7 @@
     - 用于管理项目进度：[Airtable 任务追踪表](https://airtable.com/tbl7cdh4nRbSfzxsH/viw6gIMROhVAa0pFH)
 - GitHub
     - 项目文档积累：[GitHub 主页](https://github.com/Spehhhhh/IADB_Scholar)
-    - 项目文档积累：[GitHub 维基](https://github.com/Spehhhhh/IADB_Scholar/wiki)
+    - 项目维基积累：[GitHub 维基](https://github.com/Spehhhhh/IADB_Scholar/wiki)
     - 项目异步讨论：[GitHub Issue](https://github.com/Spehhhhh/IADB_Scholar/issues)
 - GitHub 文件结构
     - [/README.md](README.md) 一切的入口
