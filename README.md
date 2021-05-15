@@ -21,6 +21,7 @@
 
 ### 1.1 获取权限
 
+- PS：在申请权限前，首先确认你已经加入**飞书协作群**；
 - 如何获取 Airtable 权限并加入协作？
     - 第一步：点击 👇 链接注册 Airtable 账户：
         - https://airtable.com/invite/l?inviteId=invoJ6ldHNf1VwlYE&inviteToken=038892e2a679734dc20545bdb897000bed4f0e816e6dee200d9fe4e8c9ed6adc
